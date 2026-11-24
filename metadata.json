@@ -1,0 +1,6 @@
+{
+  "name": "TUG-OF-WORDS: TERRITORY WAR",
+  "description": "9:16 vertical TikTok Live interactive territory war game where Team Red and Team Blue battle with words in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
